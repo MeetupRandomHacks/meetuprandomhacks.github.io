@@ -6,4 +6,4 @@ featimg: jetbrains.png
 tags: [apoio]
 category: [apoio]
 ---
-A JetBrans está apoiando o nosso grupo e estaremos sorteando cupons de até 100% de desconto durante nossos encontros ou mesmo em eventos online.
+A JetBrains (https://www.jetbrains.com) está apoiando o nosso grupo e estaremos sorteando cupons de até 100% de desconto durante nossos encontros ou mesmo em eventos online.
